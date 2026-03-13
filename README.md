@@ -1,29 +1,59 @@
-# Hi 👋 I'm Aaradhya
+💻 Full Stack Python Developer
+🚀 Building Web Applications using Python
 
-🐍 Python Developer  
-💻 Learning Backend Development
+👨‍💻 About Me
 
-## Skills
-- Python
-- Flask
-- Django
-- HTML
-- CSS
-- SQL
-- Git
-- Postman
+🔹 Full Stack Developer specializing in Python
 
-## Project
+🔹 Experienced with Flask and Django
 
-### Laxmi Print
-A Python project for managing printing work and records.
+🔹 Strong knowledge of HTML, CSS, SQL
 
-Technologies used:
-- Python
-- SQL
-- HTML
-- CSS
+🔹 Experienced in API testing using Postman
 
-## Goals
-- Become a Python Backend Developer
-- Build real-world web applications
+🔹 Version control using Git
+
+🛠 Tech Stack
+
+Backend
+
+Python
+
+Flask
+
+Django
+
+Frontend
+
+HTML
+
+CSS
+
+Database
+
+SQL
+
+Tools
+
+Git
+
+Postman
+
+🚀 Projects
+🖨 Laxmi Print
+
+A printing management system developed using Python to manage printing operations efficiently.
+
+Tech Used
+
+Python
+
+SQL
+
+HTML
+
+CSS
+
+📫 Connect With Me
+
+GitHub: https://github.com/aaradhya28
