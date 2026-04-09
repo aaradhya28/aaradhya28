@@ -1,100 +1,96 @@
-# Full Stack Python Developer
+<h1 align="center">Hi 👋, I'm Aaradhya Mohan Chandiwade</h1>
+<h3 align="center">🚀 Python Developer | Backend Engineer | API Specialist</h3>
 
-Building scalable and efficient web applications using Python and modern web technologies.
-
----
-
-## About Me
-
-Full Stack Developer with a strong focus on Python-based web development. Experienced in building end-to-end applications, integrating APIs, and working with databases. Passionate about creating clean, user-friendly interfaces and intelligent backend systems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Flask+%7C+Django+%7C+FastAPI;Building+Scalable+APIs;SQL+%26+Backend+Systems&center=true&width=500&height=45">
+</p>
 
 ---
 
-## Skills
+## 👨‍💻 About Me
 
-### Backend
-
-* Python
-* Flask
-* Django
-* FastAPI
-
-### Frontend
-
-* HTML
-* CSS
-* Tailwind
-
-### Database
-
-* SQL
-
-### Tools
-
-* Git
-* Postman
+- 🔭 I’m currently working on **Backend & API Development**
+- 🌱 I specialize in **Python, FastAPI, Django, Flask**
+- 💡 Passionate about **scalable systems & clean architecture**
+- 🧠 Always learning new technologies and improving problem-solving skills
+- ⚡ Fun fact: I love optimizing APIs and database queries
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-### Laxmi Print
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-A printing management system designed to streamline printing operations and manage products, orders, and admin functionalities.
+### 🌐 Backend Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,django,fastapi" />
+</p>
 
-**Key Features:**
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
-* Product and order management
-* Admin dashboard
-* User-friendly interface
-
-**Technologies Used:**
-
-* Python
-* SQL
-* HTML
-* CSS
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
 
 ---
 
-### News API Project
+## 🚀 Projects
 
+### 🖨️ Laxmi Print  
+A printing management system designed to streamline operations and manage products, orders, and admin functionalities.
+
+**✨ Features:**
+- Product & order management  
+- Admin dashboard  
+- User-friendly interface  
+
+**🛠 Tech Stack:** Python, SQL, HTML, CSS  
+
+---
+
+### 📰 News API Project  
 A web application that fetches and displays real-time news using an external API.
 
-**Key Features:**
+**✨ Features:**
+- Real-time news updates  
+- Category-based filtering  
+- Responsive design  
 
-* Real-time news updates
-* Category-based filtering
-* Responsive design
-
-**Technologies Used:**
-
-* HTML
-* CSS
-* JavaScript
-* REST API
+**🛠 Tech Stack:** HTML, CSS, JavaScript, REST API  
 
 ---
 
-### Smart HR System (AI to SQL using spaCy)
-
+### 🤖 Smart HR System (AI → SQL using spaCy)  
 An intelligent system that converts natural language queries into SQL using NLP techniques.
 
-**Key Features:**
+**✨ Features:**
+- Natural language → SQL conversion  
+- Automated query generation  
+- Efficient database querying  
 
-* Natural language to SQL conversion
-* Automated query generation
-* Efficient database querying
+**🛠 Tech Stack:** Python, spaCy, SQL, AI / NLP  
 
-**Technologies Used:**
 
-* Python
-* spaCy
-* SQL
-* AI / NLP
+## 🔥 Featured Skills
 
+```text
+✔ REST API Development
+✔ Authentication & Authorization
+✔ Database Design & Optimization
+✔ Microservices Architecture
+✔ Backend Performance Tuning
+
+```
 ---
 
-## Contact
+## 📫 Contact
 
-GitHub: https://github.com/aaradhya28
+- GitHub: https://github.com/aaradhya28
+- Email: chandiwadeaaradhya@gmail.com
