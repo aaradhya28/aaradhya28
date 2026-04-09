@@ -17,11 +17,13 @@ Full Stack Developer with a strong focus on Python-based web development. Experi
 * Python
 * Flask
 * Django
+* FastAPI
 
 ### Frontend
 
 * HTML
 * CSS
+* Tailwind
 
 ### Database
 
@@ -90,65 +92,6 @@ An intelligent system that converts natural language queries into SQL using NLP 
 * spaCy
 * SQL
 * AI / NLP
-
----
-
-## Project Images
-
-### Laxmi Print
-
-<p align="center">
-  <img src="Project_images/home_1.png" width="45%" />
-  <img src="Project_images/home_2.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="Project_images/Product_page.png" width="45%" />
-  <img src="Project_images/product_details.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="Project_images/admin_login.png" width="45%" />
-  <img src="Project_images/admin_ui.png" width="45%" />
-</p>
-
----
-
-### Smart HR System
-
-<p align="center">
-  <img src="Project_images/chat1.png" width="80%" />
-</p>
-
-<p align="center">
-  <img src="Project_images/chat2.png" width="80%" />
-</p>
-
-<p align="center">
-  <img src="Project_images/employees.png" width="80%" />
-</p>
-
-<p align="center">
-  <img src="Project_images/admin_table.png" width="80%" />
-</p>
-
----
-
-### News API Project
-
-<p align="center">
-  <img src="Project_images/home.png" width="45%" />
-  <img src="Project_images/news_hit.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="Project_images/war.png" width="45%" />
-  <img src="Project_images/welcome.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="Project_images/admin.png" width="45%" />
-</p>
 
 ---
 
